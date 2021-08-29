@@ -8,3 +8,5 @@ This project is for Git Demo
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
