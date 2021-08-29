@@ -1,2 +1,3 @@
 unwanted.hh.txt
 .gitignore/
+*.log
