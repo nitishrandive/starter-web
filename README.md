@@ -10,7 +10,8 @@ This project is for Git Demo and Used for Showing Demo
 ## Purpose
 
 Sample website with plenty of files for demos
+--This is In Staging Area
 
 ## Deployment
 Deployment of this project is simple.
-
+--This is In Working Directory
