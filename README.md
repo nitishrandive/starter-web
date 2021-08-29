@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-##Instroduction
+## Instroduction
 This project is for Git Demo
 
 ## Purpose
