@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 ## Instroduction
 This project is for Git Demo and Used for Showing Demo
 --This is In Local Repo
+This is rebase V1
 
 ## Purpose
 
