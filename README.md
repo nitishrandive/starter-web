@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 --This is In GitHub Repo
 -- This is modified in master merge master
-
+--This is after master in myfeature branch
 ## Instroduction
 This project is for Git Demo and Used for Showing Demo
 --This is In Local Repo
