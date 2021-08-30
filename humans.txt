@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- Nitish@Twitter -- <twitter>
 
 # THANKS
 
-    <name>
+    Nitish
 
 # TECHNOLOGY COLOPHON
 
